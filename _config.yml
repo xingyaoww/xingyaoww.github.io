@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xingyao Wang"
   avatar           : "profile.png"
-  bio              : "Undergraduate student studying Computer Science and Data Science double major at the University of Michigan. Experienced in working with data scraping, data visualization, Computer Vision applications, and DL frameworks. Actively seeking 2020 summer research/SDE internship opportunities."
+  bio              : 
   location         : "Ann Arbor, Michigan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/xingyao-wang/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
