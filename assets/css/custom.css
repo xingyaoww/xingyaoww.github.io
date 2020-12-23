@@ -1,0 +1,20 @@
+table {
+  border: none;
+  margin-top: 5px;
+}
+td {
+  border: none;
+  font-size: 16px;
+}
+.entryimg {
+  width: 160px;
+  height: 160px;
+  vertical-align: top;
+}
+.entrytext {
+  vertical-align: top;
+}
+iframe {
+  display: block;
+  border-style: none;
+}
