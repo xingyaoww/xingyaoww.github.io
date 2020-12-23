@@ -17,8 +17,8 @@ author_profile: true
     <td class="entrytext"><b>GPAplus Linear Algebra Calculator</b>
     <br> A simple, light-weight Wechat mini-program linear algebra calculator.
     <br><a data-toggle="collapse" href="#gpaplus-qr">qrcode</a>
-    <div class="collapse" id="gpaplus-qr" >
-        <br> Scan with Wechat to use: 
-        <br><img src="/images/projects-GPAPlus-QR.jpg" width="300">
+    <br><div class="collapse" id="gpaplus-qr">
+        <br> Scan with Wechat App to use: 
+        <br><img src="/images/projects-GPAPlus-QR.jpg" width="300" style="vertical-align:middle;margin:10px 0px">
     </div></td>
 </tr></tbody></table>
