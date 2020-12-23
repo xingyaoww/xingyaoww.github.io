@@ -17,7 +17,7 @@ td {
 
 .paperimg{
     width: 160px;
-    /* height: 160px; */
+    vertical-align: top;
 }
 </style>
 
@@ -47,12 +47,15 @@ td {
 
 <table><tbody><tr>
     <td class="paperimg">
-    <iframe src="https://giphy.com/embed/a9gu5GIJGJ9du" width="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <!-- <iframe src="https://giphy.com/embed/a9gu5GIJGJ9du" width="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
     <iframe src="https://giphy.com/embed/g9582DNuQppxC" width="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
     </td>
     <td><b>GIF Reply</b>
     <br><u>Xingyao Wang</u>, David Jurgens
     <br><b>Ongoing</b>
-    <br>How is multimodal media used as a language to communicate in social media? Given enough data, can we train a model to appropriately respond to text-based content using other modalities? To answer these questions, I am working on the multimodal language problem: Twitter GIF reply. GIF, a series of images or soundless videos that loops, are prevalent on Twitter nowadays. Widely used in response to tweets, easily shareable GIFs enable the sender to add context or emotions to short replies in a fun and easy to understand way. I formulate interactions between English-language tweets and their GIF responses as pseudo-multilingual conversations between English and the “GIF language”: a special vision-based language. Reply interactions between GIFs and tweets can be thought of as an interaction between the English language and the “GIF language”. I constructed a dataset containing 1.6M English tweets and GIF replies, and I am exploring multimodal Transformers as a tool to learn the mapping between the language of tweets and semantics of the GIFs.
+    <br>
+    <details><summary><span title="Click the text for more information">How is multimodal media used as a language to communicate in social media? Given enough data, can we train a model to appropriately respond to text-based content using other modalities? To answer these questions, I am working on the multimodal language problem: Twitter GIF reply. </span></summary> 
+    GIF, a series of images or soundless videos that loops, are prevalent on Twitter nowadays. Widely used in response to tweets, easily shareable GIFs enable the sender to add context or emotions to short replies in a fun and easy to understand way. 
+    <br>I formulate interactions between English-language tweets and their GIF responses as pseudo-multilingual conversations between English and the “GIF language”: a special vision-based language. Reply interactions between GIFs and tweets can be thought of as an interaction between the English language and the “GIF language”. I constructed a dataset containing 1.6M English tweets and GIF replies, and I am exploring multimodal Transformers as a tool to learn the mapping between the language of tweets and semantics of the GIFs.</details>
     <!-- &nbsp;·&nbsp; -->
 </td></tr></tbody></table>
