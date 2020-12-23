@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student studying Computer Science and Data Science at the University of Michigan.
+I am a junior undergraduate student double majored in computer science and data science at the University of Michigan.
 As a research assitant, I am fortunate to be advised by Professor [David Jurgens](https://jurgens.people.si.umich.edu/) at [Blablablab](https://blablablab.si.umich.edu/).
 
 Previously, I was an Software Engineering Intern at [Tencent](https://www.tencent.com/en-us/about.html),
