@@ -3,22 +3,20 @@ permalink: /
 title: "Hi! I'm Xingyao."
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-An undergraduate student double major in Computer Science and Data Science at the University of Michigan. 
+I am a senior undergraduate student studying Computer Science and Data Science at the University of Michigan.
+As a research assitant, I am fortunate to be advised by Professor [David Jurgens](https://jurgens.people.si.umich.edu/) at [Blablablab](https://blablablab.si.umich.edu/).
 
-Research Assistant @ [Blablablab](https://blablablab.si.umich.edu/) supervised by Professor David Jurgens.
+Previously, I was an Software Engineering Intern at [Tencent](https://www.tencent.com/en-us/about.html),
+worked with Deep learning side of high-performance computing. We broke the ImageNet training record on the [DAWNBench](https://dawn.cs.stanford.edu/benchmark/) on training ResNet-50 to 93% top-5 accuracy in 151 seconds [(paper link)](https://arxiv.org/abs/2010.10458).
 
-Previously an Software Engineering Intern @ [Tencent](https://www.tencent.com/en-us/about.html), 
-worked with Deep learning side of high-performance computing, achieved SOTA ImageNet training world record in 2020 
-(151 seconds with 128 Tesla V100).
+Interests (broadly): natural language processing, machine learning, computational sociolinguistics,
+human-computer interaction, machine reasoning.
 
-Interests (broadly): natural language processing, computational sociolinguistics, machine reasoning,
-high-performance computing, computer vision.
+For more details, check my [resume here](https/files/resume.pdf)!
 
-Looking for 2021 research and internship opportunities. 
-
-For more details, check my [resume here](https://xingyaoww.github.io/files/resume.pdf)!
+I am actively seeking for 2021 summer research and internship opportunities! &#128516;

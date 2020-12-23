@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/xingyaoww"
+  github           : "xingyaoww"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "xingyaoww"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xingyao-wang/"
+  linkedin         : "xingyao-wang"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -222,6 +222,14 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
