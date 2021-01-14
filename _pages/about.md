@@ -17,6 +17,6 @@ worked with the Deep learning side of high-performance computing. We broke the [
 Interests (broadly): natural language processing, machine learning, computational sociolinguistics,
 human-computer interaction, machine reasoning.
 
-For more details, check my [resume here](https/files/resume.pdf)!
+For more details, check my [resume here](files/resume.pdf)!
 
 I am actively seeking 2021 summer research and internship opportunities! &#128516;

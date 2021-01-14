@@ -6,8 +6,11 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Personal"
-    url: /personal/
+  # - title: "CV"
+  #   url: /files/resume.pdf
+
+  # - title: "Personal"
+  #   url: /personal/
 
   # - title: "Talks"
   #   url: /talks/
@@ -20,9 +23,6 @@ main:
 
   # - title: "Blog Posts"
   # url: /year-archive/
-
-  # - title: "CV"
-  # url: /cv/
 
   # - title: "Guide"
   # url: /markdown/
