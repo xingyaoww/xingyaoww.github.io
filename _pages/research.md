@@ -12,7 +12,7 @@ author_profile: true
     <td class="entrytext">
         <b>Towards Scalable Distributed Training of Deep Learning on Public Cloud Clusters</b>
         <br>Shaohuai Shi, Xianhao Zhou, Shutao Song, <u>Xingyao Wang</u>, Zilin Zhu, Xue Huang, Xinan Jiang, Feihu Zhou, Zhenyu Guo, Liqiang Xie, Rui Lan, Xianbin Ouyang, Yan Zhang, Jieqian Wei, Jing Gong, Weiliang Lin, Ping Gao, Peng Meng, Xiaomin Xu, Chenyang Guo, Bo Yang, Zhibo Chen, Yongjian Wu, Xiaowen Chu
-        <br>Proceedings of Machine Learning and Systems (MLSys), 2021. <b>Under Review</b>
+        <br>Proceedings of Machine Learning and Systems (MLSys), 2021.
         <br><a href="https://arxiv.org/abs/2010.10458">link</a></td>
 </tr></tbody></table>
 
